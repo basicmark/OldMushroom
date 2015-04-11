@@ -1,0 +1,9 @@
+name: OldMushroom
+author: basicmark
+description: Revert 1.8 mushroom drop behaviour to that of 1.7
+main: io.github.basicmark.oldmushroom.OldMushroom
+startup: postworld
+url: https://github.com/basicmark/OldMushroom
+depend: []
+softdepend: []
+version: 1.0
